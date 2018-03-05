@@ -1,0 +1,20 @@
+In which year the Second World War started?
+1920 false
+1939 true
+1945 false
+Which town is the capital of Italy?
+Rome true
+Venice false
+Paris false
+What is the chemical formula of water?
+H2O2 false 
+HgO false
+H2O true
+How many province has Poland?
+15 false
+16 true
+17 false
+Who is the author of the law of gravity?
+Newton true
+Keppler false
+Einstein false
