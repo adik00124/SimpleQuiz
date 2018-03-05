@@ -8,8 +8,7 @@ public class TestClass {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                Quiz quiz=new Quiz(new UserQuestionQenerator());
-
+                Quiz quiz=new Quiz(new FileQuestionGenerator());
             }
         });
 
